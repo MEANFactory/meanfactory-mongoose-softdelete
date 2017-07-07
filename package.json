@@ -1,6 +1,6 @@
 {
   "name": "mf-mongoose-softdelete",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Retain historical data by flagging docs as 'deleted' instead of permanently destroying them.",
   "main": "src/index.js",
   "scripts": {
