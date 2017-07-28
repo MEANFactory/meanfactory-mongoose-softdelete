@@ -1,6 +1,6 @@
 {
   "name": "mf-mongoose-softdelete",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Retain historical data by flagging docs as 'deleted' instead of permanently destroying them.",
   "main": "src/index.js",
   "scripts": {
@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/MEANFactory/mf-mongoose-softdelete#readme",
   "dependencies": {
-    "mf-utils-node": ">=1.0.5",
+    "mf-utils-node": ">=1.0.6",
     "mongoose": "^4.11.4"
   },
   "devDependencies": {
